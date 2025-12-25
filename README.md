@@ -23,7 +23,6 @@ to deliver reliable and repeatable production workflows.
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="28" />
   &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/gitea/gitea-icon.png" width="28" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" />
 </p>
 
